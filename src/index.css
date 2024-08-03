@@ -25,9 +25,9 @@
   display: block;
   background-color: white;
   padding: 10px;
-  height: fit-content;
+  height: moz-fit-content;
   min-width: 350px;
-  width: fit-content;
+  width: moz-fit-content;
   top: 100%;
   right: 0;
   left: unset;
